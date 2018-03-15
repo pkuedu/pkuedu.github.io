@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-15T07:25:07.447Z</updated>
+  <updated>2018-03-15T09:38:16.830Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,18 +21,15 @@
     <link href="http://yoursite.com/2018/03/15/Get-HG2821T-U-SuperUser/"/>
     <id>http://yoursite.com/2018/03/15/Get-HG2821T-U-SuperUser/</id>
     <published>2018-03-15T07:22:21.000Z</published>
-    <updated>2018-03-15T07:25:07.447Z</updated>
+    <updated>2018-03-15T09:38:16.830Z</updated>
     
-    <content type="html"><![CDATA[<ul><li></li></ul>]]></content>
+    <content type="html"><![CDATA[<h4 id="1-打开-http-192-168-1-1-8080-cgi-bin-baseinfoSet-cgi"><a href="#1-打开-http-192-168-1-1-8080-cgi-bin-baseinfoSet-cgi" class="headerlink" title="1. 打开 http://192.168.1.1:8080/cgi-bin/baseinfoSet.cgi"></a>1. 打开 <a href="http://192.168.1.1:8080/cgi-bin/baseinfoSet.cgi" target="_blank" rel="noopener">http://192.168.1.1:8080/cgi-bin/baseinfoSet.cgi</a></h4><h4 id="2-密码对照表"><a href="#2-密码对照表" class="headerlink" title="2. 密码对照表"></a>2. 密码对照表</h4><table><thead><tr><th>密文</th><th>明文</th><th>密文</th><th>明文</th><th>密文</th><th>明文</th><th>密文</th><th>明文</th></tr></thead><tbody><tr><td>48</td><td>0</td><td>71</td><td>C</td><td>87</td><td>S</td><td>108</td><td>h</td></tr><tr><td>49</td><td>1</td><td>72</td><td>D</td><td>88</td><td>T</td><td>109</td><td>i</td></tr><tr><td>50</td><td>2</td><td>73</td><td>E</td><td>89</td><td>U</td><td>110</td><td>j</td></tr><tr><td>51</td><td>3</td><td>74</td><td>F</td><td>90</td><td>V</td><td>111</td><td>k</td></tr><tr><td>52</td><td>4</td><td>75</td><td>G</td><td>97</td><td>w</td><td>112</td><td>l</td></tr><tr><td>53</td><td>5</td><td>76</td><td>H</td><td>98</td><td>x</td><td>113</td><td>m</td></tr><tr><td>54</td><td>6</td><td>77</td><td>I</td><td>99</td><td>y</td><td>114</td><td>n</td></tr><tr><td>55</td><td>7</td><td>78</td><td>J</td><td>100</td><td>z</td><td>115</td><td>o</td></tr><tr><td>56</td><td>8</td><td>79</td><td>K</td><td>101</td><td>a</td><td>116</td><td>p</td></tr><tr><td>57</td><td>9</td><td>80</td><td>L</td><td>102</td><td>b</td><td>117</td><td>q</td></tr><tr><td>65</td><td>W</td><td>81</td><td>M</td><td>103</td><td>c</td><td>118</td><td>r</td></tr><tr><td>66</td><td>X</td><td>82</td><td>N</td><td>104</td><td>d</td><td>119</td><td>s</td></tr><tr><td>67</td><td>Y</td><td>83</td><td>O</td><td>105</td><td>e</td><td>120</td><td>t</td></tr><tr><td>68</td><td>Z</td><td>84</td><td>P</td><td>106</td><td>f</td><td>121</td><td>u</td></tr><tr><td>69</td><td>A</td><td>85</td><td>Q</td><td>107</td><td>g</td><td>122</td><td>v</td></tr><tr><td>70</td><td>B</td><td>86</td><td>R</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
+        &lt;h4 id=&quot;1-打开-http-192-168-1-1-8080-cgi-bin-baseinfoSet-cgi&quot;&gt;&lt;a href=&quot;#1-打开-http-192-168-1-1-8080-cgi-bin-baseinfoSet-cgi&quot; class=&quot;headerlink&quot;
       
     
     </summary>
